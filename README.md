@@ -1,6 +1,6 @@
 # Statistics if you're into that sort of thing
 
-![wow numbers](https://gitlang.mrmarble.dev/ONX0?format=svg&background=%23DDFFF7)
+![wow numbers](https://gitlang.mrmarble.dev/onyxcode?format=svg&background=%23DDFFF7)
 
 
 
