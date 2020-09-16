@@ -4,4 +4,5 @@
 [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev) 
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=onyxcode)](https://github.com/onyxcode)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=onyxcode)](https://github.com/onyxcode) &nbsp; &nbsp; 
+![wow numbers](https://gitlang.mrmarble.dev/onyxcode?format=svg&background=%23DDFFF7)
