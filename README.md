@@ -6,7 +6,7 @@ I started messing around with HTML when I was about 12. At 13, after struggling 
 ## My Setup
 [![Laptop](https://img.shields.io/badge/Dell-Latitude_E6320-2B303A?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/ng/business/p/latitude-e6320/pd)
 
-[![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![OS](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
 [![CPU](https://img.shields.io/badge/Intel_Core_i5-2520M-blue?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/52229/intel-core-i5-2520m-processor-3m-cache-up-to-3-20-ghz.html)
 
