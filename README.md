@@ -3,6 +3,10 @@
 ## About Me
 I started messing around with HTML when I was about 12. At 13, after struggling with Ruby, my good friend, [@Timanttikuutio](https://github.com/timanttikuutio), convinced me to learn Python. I took a 2 hour course on the basics of Python, and the rest is history!
 
+## Current Projects
+- [Snek]
+- [Being a better friend
+
 ## My Setup
 [![Laptop](https://img.shields.io/badge/Dell-Latitude_E6320-2B303A?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/ng/business/p/latitude-e6320/pd)
 
@@ -19,5 +23,5 @@ I started messing around with HTML when I was about 12. At 13, after struggling 
 ## Funding
 [![Freewallet](https://img.shields.io/badge/Freewallet-1adbd1?style=for-the-badge)](https://freewallet.org/id/onyxcode/doge)
 
-## Stats
+## Stats (they're broken)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=onyxcode&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0,2B303A,58A4B0&icon_color=FFFFFF&title_color=FFFFFF)
