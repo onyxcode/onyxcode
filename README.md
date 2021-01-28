@@ -4,8 +4,8 @@
 I started messing around with HTML when I was about 12. At 13, after struggling with Ruby, my good friend, [@Timanttikuutio](https://github.com/timanttikuutio), convinced me to learn Python. I took a 2 hour course on the basics of Python, and the rest is history!
 
 ## Current Projects
-- [Snek]
-- [Being a better friend
+- Snek
+- Being a better friend
 
 ## My Setup
 [![Laptop](https://img.shields.io/badge/Dell-Latitude_E6320-2B303A?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/ng/business/p/latitude-e6320/pd)
