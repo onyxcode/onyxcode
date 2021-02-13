@@ -5,6 +5,7 @@ I started messing around with HTML when I was about 12. At 13, after struggling 
 
 ## Current Projects
 - Snek
+- Learning C
 
 ## My Setup
 [![Laptop](https://img.shields.io/badge/Dell-Latitude_E6320-2B303A?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/ng/business/p/latitude-e6320/pd)
