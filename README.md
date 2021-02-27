@@ -18,7 +18,7 @@ I started messing around with HTML when I was about 12. At 13, after struggling 
 
 
 ## Socials
-[![Website](https://img.shields.io/badge/onyxcode.net-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://onyxcode.net) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onyxcodedan) &nbsp;  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jUd88az) &nbsp; [![Reddit User Karma](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/AlreadyReddit999) &nbsp;  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@knuckles0002)
+[![Website](https://img.shields.io/badge/onyxcode.net-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://onyxcode.net) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onyxcodedan) &nbsp;  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jUd88az) &nbsp;  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@knuckles0002)
 
 ## Funding
 [![Freewallet](https://img.shields.io/badge/Freewallet-1adbd1?style=for-the-badge)](https://freewallet.org/id/onyxcode/doge)
