@@ -4,8 +4,8 @@
 I'm 14, and I started messing around with HTML when I was about 12. At 13, after struggling with Ruby, my good friend, [@Timanttikuutio](https://github.com/timanttikuutio), convinced me to learn Python. I took a 2 hour course on the basics of Python, and the rest is history!
 
 ## Current Projects
-- Snek
-- Learning C and Vlang
+- [Snek](https://snekbot.me)
+- [VISH](https://github.com/onyxcode/vish)
 
 ## My Setup
 [![Laptop](https://img.shields.io/badge/Dell-Latitude_E6320-2B303A?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/ng/business/p/latitude-e6320/pd)
@@ -20,8 +20,6 @@ I'm 14, and I started messing around with HTML when I was about 12. At 13, after
 ## Socials
 [![Website](https://img.shields.io/badge/onyxcode.net-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://onyxcode.net) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onyxcodedan) &nbsp;  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://bit.ly/onyxcord) &nbsp;  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@onyxcodedan)
 
-## Funding
-[![Freewallet](https://img.shields.io/badge/Freewallet-1adbd1?style=for-the-badge)](https://freewallet.org/id/onyxcode/doge)
 
 ## Stats
 
