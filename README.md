@@ -23,4 +23,4 @@ I'm 14, and I started messing around with HTML when I was about 12. At 13, after
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyxcode)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyxcode&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
