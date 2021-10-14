@@ -6,6 +6,16 @@ I'm 14, and I started messing around with HTML when I was about 12. At 13, after
 ## Current Projects
 - [UpsiDE](https://github.com/onyxcode/upside)
 
+## Sign up for Honeygain with my referral link and get $5
+<div align="center">
+    <a href="https://r.honeygain.me/MEE0945B40">
+    <img src="https://themoneyninja.com/wp-content/uploads/2020/09/Honeygain-Logo-And-Slogan.png" align="left" alt="Honeygain referral link" height="16">
+</a>
+</div>
+
+<br>
+
+
 ## My "Setup" 😅
 [![Chromebook - x360 14b](https://img.shields.io/badge/Chromebook-x360_14b-FF5733?style=for-the-badge&logo=hp)](#)
 
