@@ -1,4 +1,4 @@
-# Hey! I'm Dan! I'm a developer and writer!
+# Hey, I'm Dan! I'm a developer and writer!
 
 ## About Me
 I'm 14, and I started messing around with HTML when I was about 12. At 13, after struggling with Ruby, my good friend, [@Timanttikuutio](https://github.com/timanttikuutio), convinced me to learn Python. I took a 2 hour course on the basics of Python, and the rest is history!
