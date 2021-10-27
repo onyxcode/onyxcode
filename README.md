@@ -5,7 +5,7 @@ I'm 14, and I started messing around with HTML when I was about 12. At 13, after
 
 ## Current Projects
 - [UpsiDE](https://github.com/onyxcode/upside)
-- [tet-noises-transcripts w/ Viz](https://github.com/onyxcode/tet-noises-transcripts)
+- [tet-noises-transcripts w/ @Vizeelo](https://github.com/onyxcode/tet-noises-transcripts)
 
 ## Sign up for Honeygain with my referral link and get $5
 <div align="center">
