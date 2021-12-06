@@ -20,7 +20,7 @@ I'm 15, and I started messing around with HTML when I was about 12. At 13, after
 ## My "Setup" 😅
 [![Chromebook - x360 14b](https://img.shields.io/badge/Chromebook-x360_14b-FF5733?style=for-the-badge&logo=hp)](#)
 
-[![Debian - Bullseye](https://img.shields.io/badge/Debian-Buster-d70a53?style=for-the-badge&logo=debian)](https://debian.org)
+[![Debian - Bullseye](https://img.shields.io/badge/Debian-Bullseye-d70a53?style=for-the-badge&logo=debian)](https://debian.org)
 
 [![Intel - Celeron N4000](https://img.shields.io/badge/Intel-Celeron_N4000-0071c5?style=for-the-badge&logo=intel)](https://intel.com)
 
