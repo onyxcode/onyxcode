@@ -2,9 +2,7 @@
 
 ## Current Projects
 - APCSP!!!
-- Hackintosh-ing literally anything that moves
-- Messing with KFD
-- Trying not to brick my iPhone while messing with KFD
+
 
 ## Specs
 ### PC
