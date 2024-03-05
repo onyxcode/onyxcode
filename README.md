@@ -6,22 +6,9 @@
 
 
 ## Specs
-### PC
-- Valve Steam Deck 64GB
-    - 16GB RAM LPDDR5
-    - AMD Van Gogh APU
-- Spectre E22 Monitor
-- SIWIQU Docking Station
-- Redragon K552 Kumara Keyboard
-    - Outemu Blue Switches
-    - Havit Pudding Keycaps - White
-- Pictek T7 Gaming Mouse
-
-### Laptop
-- HP ProBook 445 G7
-    - 16GB RAM DDR4-PC4
-    - AMD Ryzen 5 4500U APU
-    - 512GB NVMe SSD
+| PC                                                                                                                                                                                                                                                                  	| Laptop                                                                                                	|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------	|
+| - Valve Steam Deck 64GB<br>    - 16GB RAM LPDDR5<br>    - AMD Van Gogh APU<br>- Spectre E22 Monitor<br>- SIWIQU Docking Station<br>- Redragon K552 Kumara Keyboard<br>    - Outemu Blue Switches<br>    - Havit Pudding Keycaps - White<br>- Pictek T7 Gaming Mouse 	| - HP ProBook 445 G7<br>    - 16GB RAM DDR4-PC4<br>    - AMD Ryzen 5 4500U APU<br>    - 512GB NVMe SSD 	|
 
 ## Funny Infographs to Distract You
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onyxcode&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
