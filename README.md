@@ -2,7 +2,7 @@
 
 ## Current Projects
 - Google IT Support Professional Certificate
-- AP Exam Review
+- Roblox Game Development
 
 
 ## Specs
