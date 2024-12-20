@@ -1,8 +1,8 @@
 # Hey, I'm Nyx!
 
-## Current Projects
-- Google IT Support Professional Certificate
-- Roblox Game Development
+## What's happening in my life?
+- Learning Rust
+- Looking for a job
 
 
 ## Setup
