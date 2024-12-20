@@ -29,4 +29,4 @@
 
 
 ## Credits
-Profile picture by [NeveDoodle](https://www.deviantart.com/nevedoodle/gallery) on DeviantArt
+joel
