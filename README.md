@@ -18,13 +18,12 @@
 ## Funny Infographs to Distract You
 <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=nullnyx&badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for nullnyx"></img>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=onyxcode&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="My most used languages." />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=onyxiarivera&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="My most used languages." />
 
-<img src="https://komarev.com/ghpvc/?username=onyxcode&color=blueviolet" alt="Current profile views for my profile." />
+<img src="https://komarev.com/ghpvc/?username=onyxiarivera&color=blueviolet" alt="Current profile views for my profile." />
 
 
 ## Credits
-- joel
 - m'wife
 - monster energy
-- coffee
+- my lovely friends and family :)
